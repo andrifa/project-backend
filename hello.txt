@@ -1,2 +1,3 @@
 ini line pertama, edit tambahan
 ini line untuk edit di cabang 1
+ini line 3 untuk cabang1 sebelum di merge
