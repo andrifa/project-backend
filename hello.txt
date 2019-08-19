@@ -1,1 +1,2 @@
-ini line pertama, edit tambahan, edit sebelum di commit
+ini line pertama, edit tambahan
+ini line untuk edit di cabang 1
